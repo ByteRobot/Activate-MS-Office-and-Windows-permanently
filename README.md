@@ -36,7 +36,8 @@ From the menu, **select Option 2**.
 
 Wait until the process is fully completed.
 
-![Activation Menu](path/to/your/image1.png)
+<img width="440" height="382" alt="1" src="https://github.com/user-attachments/assets/1eb4b3a7-134d-40cf-b673-19692c03a91f" />
+
 
 ---
 
