@@ -43,11 +43,9 @@ Wait until the process is fully completed.
 
 ### Step 3: Activation Completed
 
-Once the process completes successfully, you will see a confirmation message.
+After this process a new window will appear **select Option 1** and wait until it complete
 
-This means the activation is done.
-
-![Activation Success](path/to/your/image2.png)
+<img width="415" height="296" alt="2" src="https://github.com/user-attachments/assets/3f63cac5-d332-48a8-86a4-db0dc29a9981" />
 
 ---
 
@@ -57,7 +55,7 @@ Finally, close the window.
 
 **You are now done!** ✅
 
-![Process Complete](path/to/your/image3.png)
+
 
 ---
 
