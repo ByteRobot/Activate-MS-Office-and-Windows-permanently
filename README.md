@@ -309,7 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 If this helped you, consider giving it a star! 🌟
 
-**Made with ❤️ by the Community**
 
 <sub>Last Updated: January 2026</sub>
 
